@@ -1,2 +1,2 @@
 # Hello_World_CSharp
-Hello World le Govno-code edition
+Hello World le Shit-code edition
