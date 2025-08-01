@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "p3gCXYGlp4g=",
+  "dgSpecHash": "/+KbTERcklY=",
   "success": true,
   "projectFilePath": "C:\\Users\\thesu\\Desktop\\Suicidal_Isaac\\Programming\\Hello_World_C#\\Hello_World_C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thesu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
+    "C:\\Users\\thesu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
